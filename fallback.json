@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "title": "You are out of dragon balls (or either mobile data) ¯\\_(ツ)_/¯",
+      "url": "",
+      "urlToImage": "images/fallback_image.jpg",
+      "description": "Refresh page after a while"
+    }
+  ]
+}
